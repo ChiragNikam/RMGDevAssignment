@@ -1,5 +1,5 @@
 # Try APK
-[app-debug.apk](build%2Foutputs%2Fapk%2Fdebug%2Fapp-debug.apk)
+https://drive.google.com/file/d/1PnhQX9VwsHZwUDNWTiRPpSR_spKpt-E9/view?usp=sharing
 
 # Screens
 
