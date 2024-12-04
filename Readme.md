@@ -4,7 +4,7 @@
 
 ## Screen 2
 Login Email: `user1@example.com`<br>
-Login Password: `password1`
+Login Password: `password1`<br>
 <img src="LoginScreen.png" alt="LoginScreen" width="300" />
 
 ## Screen 3
