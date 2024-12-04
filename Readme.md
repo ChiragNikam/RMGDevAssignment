@@ -1,11 +1,11 @@
 # Screens
 ## Screen 1
-![SplashScreen.png](..%2FSplashScreen.png)
+<img src="SplashScreen.png" alt="SplashScreen" width="300" />
 
 ## Screen 2
-Login Email: `user1@example.com`
+Login Email: `user1@example.com`<br>
 Login Password: `password1`
-![LoginScreen.png](..%2FLoginScreen.png)
+<img src="LoginScreen.png" alt="LoginScreen" width="300" />
 
 ## Screen 3
-![HomeScreen.png](..%2FHomeScreen.png)
+<img src="HomeScreen.png" alt="HomeScreen" width="300" />
