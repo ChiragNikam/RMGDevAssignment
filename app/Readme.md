@@ -1,4 +1,8 @@
 # Screens
+
+## Try APK
+[app-debug.apk](build%2Foutputs%2Fapk%2Fdebug%2Fapp-debug.apk)
+
 ## Screen 1
 ![SplashScreen.png](..%2FSplashScreen.png)
 
