@@ -1,4 +1,8 @@
+# Try APK
+[app-debug.apk](build%2Foutputs%2Fapk%2Fdebug%2Fapp-debug.apk)
+
 # Screens
+
 ## Screen 1
 <img src="SplashScreen.png" alt="SplashScreen" width="300" />
 
